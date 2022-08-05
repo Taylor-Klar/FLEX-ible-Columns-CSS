@@ -1,0 +1,32 @@
+.row {
+color: silver;
+display: flex;
+flex-direction: row;
+}
+.col {
+background-color: aquamarine;
+width: 100px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+flex: 1;
+}
+.col-2 {
+background-color: aquamarine;
+width: 100px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+flex: 2;
+}
+.col-3 {
+background-color: aquamarine;
+width: 100px;
+margin: 10px;
+text-align: center;
+line-height: 75px;
+font-size: 30px;
+flex: 3;
+}
